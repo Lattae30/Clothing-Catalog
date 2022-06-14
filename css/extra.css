@@ -117,6 +117,9 @@ button:hover{
 .margin-top{
     margin-top:-20px;
 }
+.margin-left{
+    margin-left: 15px;
+}
 .footer {
     position: static;
     padding: 3px;
